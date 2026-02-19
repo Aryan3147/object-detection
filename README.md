@@ -1,6 +1,6 @@
 # 🎯 Real-Time Object Detection with YOLO
 
-A beginner-friendly project for real-time object detection using your computer's camera and YOLO (You Only Look Once) deep learning model.
+A project for real-time object detection using your computer's camera and YOLO (You Only Look Once) deep learning model.
 
 ## 📋 What This Project Does
 
@@ -15,7 +15,7 @@ This application uses your webcam to detect and identify objects in real-time. I
 ## 🚀 Quick Start Guide
 
 ### Step 1: Install Python
-Make sure you have Python 3.8 or newer installed:
+Make sure you have Python 3.11:
 ```bash
 python --version
 ```
